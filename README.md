@@ -1,8 +1,10 @@
-Oust
+Joyst (a fork of Oust)
 ====
 <sup>Also known as Candle Fight, Jonty Sebastian Joust, and "that game with the lights".</sup>
 
 A love letter to [Johann Sebastian Joust](http://www.jsjoust.com/), designed for playing outdoors at noisy festivals in the dark. All night long (all night).
+
+_This fork serves to replace the PS Move controllers required for Oust with Nintendo Switch Joy-Con (for better or worse)_
 
 ![Rpi Oust Setup](sandwich_box.jpg)
 
